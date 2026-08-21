@@ -34,3 +34,5 @@ compile_commands.json
 
 # The target directory from Rust development
 /target/
+build
+*.bin
